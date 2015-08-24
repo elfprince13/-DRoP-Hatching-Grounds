@@ -118,6 +118,14 @@
 1 6 0 44 0 1 0 0 0 1 0 0 0 1 3817.DAT
 1 6 0 44 0 1 0 0 0 1 0 0 0 1 3816.DAT
 0 NOFILE
+0 FILE gallery.ldr
+0 untitled model
+0 Name: gallery.ldr
+0 Author: Thomas Dickerson
+1 16 0 0 0 1 0 0 0 1 0 -0 0 1 gallery-seating.ldr
+1 16 640 0 0 0.999999 0 0 0 1 0 -0 0 0.999999 gallery-seating.ldr
+1 16 1280 0 0 0.999999 0 0 0 1 0 -0 0 0.999999 gallery-seating.ldr
+0 NOFILE
 0 FILE gallery-seating.ldr
 0 untitled model
 0 Name: gallery-seating.ldr
@@ -265,13 +273,12 @@
 1 16 0 -88 160 1 0 0 0 1 0 -0 0 1 4079.dat
 0 STEP
 0 NOFILE
-0 FILE gallery.ldr
-0 untitled model
-0 Name: gallery.ldr
+0 FILE glowbasket.ldr
+0 Glow's to light the walls
+0 Name: glowbasket.ldr
 0 Author: Thomas Dickerson
-1 16 0 0 0 1 0 0 0 1 0 -0 0 1 gallery-seating.ldr
-1 16 640 0 0 0.999999 0 0 0 1 0 -0 0 0.999999 gallery-seating.ldr
-1 16 1280 0 0 0.999999 0 0 0 1 0 -0 0 0.999999 gallery-seating.ldr
+1 6 0 0 0 1 0 0 0 1 0 -0 0 1 4523.dat
+1 57 0 -8 23 1 0 0 0 1 0 -0 0 1 3062b.dat
 0 NOFILE
 0 FILE Ramoth.ldr
 0 untitled model
@@ -283,53 +290,6 @@
 1 8 30 -256 -10 -0 -0 1 -0 1 -0 -1 0 -0 48169.dat
 1 82 0 0 0 1 0 0 0 1 0 -0 0 1 RamothHead.ldr
 0 STEP
-0 NOFILE
-0 FILE RamothJaw.ldr
-0 Lower jaw
-0 Name: RamothJaw.ldr
-0 Author: Thomas Dickerson
-1 82 30 -208 -210 1 -0 0 0 1 -0 -0 0 1 43713.dat
-1 82 30 -208 -170 -0 0 1 -0 1 0 -1 -0 -0 4871.dat
-1 82 30 -200 -210 -0 0 -1 -0 1 0 1 0 -0 3795.dat
-0 STEP
-1 82 30 -208 -160 -1 0 -0 0 1 -0 0 -0 -1 48336.dat
-1 4 30 -208 -240 -0 0 -1 -0 1 -0 1 -0 -0 3021.dat
-1 4 30 -208 -190 1 0 0 0 1 0 -0 0 1 3022.dat
-0 STEP
-1 4 30 -216 -190 -0 0 1 -0 1 0 -1 -0 -0 3020.dat
-0 STEP
-1 183 60 -210 -220 -1 -0 0 -0 0 -1 0 -1 -0 53451.dat
-1 183 60 -210 -200 -1 0 -0 0 0 -1 0 -1 -0 53451.dat
-1 183 0 -210 -220 -1 0 -0 0 0 -1 0 -1 -0 53451.dat
-1 183 0 -210 -200 -1 0 -0 0 0 -1 0 -1 -0 53451.dat
-1 183 40 -210 -280 -1 -0 0 -0 0 -1 0 -1 -0 53451.dat
-1 183 20 -210 -280 -1 -0 0 -0 0 -1 0 -1 -0 53451.dat
-0 STEP
-0 NOFILE
-0 FILE DragonEye.ldr
-0 A faceted dragon eye
-0 Name: DragonEye.ldr
-0 Author: Thomas Dickerson
-1 16 0 0 0 1 0 0 0 1 0 -0 0 1 44728.dat
-1 74 0 20 -22 1 0 0 0 -0 -1 0 1 -0 4032a.dat
-0 STEP
-1 191 0 20 -30 1 0 0 0 -0 -1 0 1 -0 4073.dat
-1 117 0 20 -38 1 0 0 0 -0 -1 0 1 -0 4740.dat
-0 STEP
-0 NOFILE
-0 FILE DragonEyebrow.ldr
-0 Eye crest
-0 Name: DragonEyebrow.ldr
-0 Author: Thomas Dickerson
-1 16 40 -336 -20 -1 0 0 0 1 0 0 0 -1 50950.dat
-1 16 40 -328 -40 1 0 0 -0 1 -0 0 0 1 6005.dat
-0 NOFILE
-0 FILE glowbasket.ldr
-0 Glow's to light the walls
-0 Name: glowbasket.ldr
-0 Author: Thomas Dickerson
-1 6 0 0 0 1 0 0 0 1 0 -0 0 1 4523.dat
-1 57 0 -8 23 1 0 0 0 1 0 -0 0 1 3062b.dat
 0 NOFILE
 0 FILE RamothHead.ldr
 0 Ramoth's Head
@@ -442,6 +402,46 @@
 1 82 106 -256 -80 -0 -1 0 1 -0 -0 0 0 1 44661.dat
 1 82 30 -312 -80 1 -0 0 0 1 -0 0 0 1 44661.dat
 0 STEP
+0 NOFILE
+0 FILE RamothJaw.ldr
+0 Lower jaw
+0 Name: RamothJaw.ldr
+0 Author: Thomas Dickerson
+1 82 30 -208 -210 1 -0 0 0 1 -0 -0 0 1 43713.dat
+1 82 30 -208 -170 -0 0 1 -0 1 0 -1 -0 -0 4871.dat
+1 82 30 -200 -210 -0 0 -1 -0 1 0 1 0 -0 3795.dat
+0 STEP
+1 82 30 -208 -160 -1 0 -0 0 1 -0 0 -0 -1 48336.dat
+1 4 30 -208 -240 -0 0 -1 -0 1 -0 1 -0 -0 3021.dat
+1 4 30 -208 -190 1 0 0 0 1 0 -0 0 1 3022.dat
+0 STEP
+1 4 30 -216 -190 -0 0 1 -0 1 0 -1 -0 -0 3020.dat
+0 STEP
+1 183 60 -210 -220 -1 -0 0 -0 0 -1 0 -1 -0 53451.dat
+1 183 60 -210 -200 -1 0 -0 0 0 -1 0 -1 -0 53451.dat
+1 183 0 -210 -220 -1 0 -0 0 0 -1 0 -1 -0 53451.dat
+1 183 0 -210 -200 -1 0 -0 0 0 -1 0 -1 -0 53451.dat
+1 183 40 -210 -280 -1 -0 0 -0 0 -1 0 -1 -0 53451.dat
+1 183 20 -210 -280 -1 -0 0 -0 0 -1 0 -1 -0 53451.dat
+0 STEP
+0 NOFILE
+0 FILE DragonEye.ldr
+0 A faceted dragon eye
+0 Name: DragonEye.ldr
+0 Author: Thomas Dickerson
+1 16 0 0 0 1 0 0 0 1 0 -0 0 1 44728.dat
+1 74 0 20 -22 1 0 0 0 -0 -1 0 1 -0 4032a.dat
+0 STEP
+1 191 0 20 -30 1 0 0 0 -0 -1 0 1 -0 4073.dat
+1 117 0 20 -38 1 0 0 0 -0 -1 0 1 -0 4740.dat
+0 STEP
+0 NOFILE
+0 FILE DragonEyebrow.ldr
+0 Eye crest
+0 Name: DragonEyebrow.ldr
+0 Author: Thomas Dickerson
+1 16 40 -336 -20 -1 0 0 0 1 0 0 0 -1 50950.dat
+1 16 40 -328 -40 1 0 0 -0 1 -0 0 0 1 6005.dat
 0 NOFILE
 0 FILE RamothSnout.ldr
 0 Ramoth's snout-ridge and nostrils
