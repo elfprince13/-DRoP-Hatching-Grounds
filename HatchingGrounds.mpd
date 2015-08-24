@@ -36,6 +36,8 @@
 0 STEP
 1 28 100 -144 610 1 0 0 0 1 0 -0 0 1 gallery.ldr
 0 STEP
+1 28 900 200 230 1 0 0 0 1 0 -0 0 1 Ramoth.ldr
+0 STEP
 0 STEP
 0 NOFILE
 0 FILE eggdunes.ldr
