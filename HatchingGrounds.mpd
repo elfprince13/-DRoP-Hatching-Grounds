@@ -351,8 +351,8 @@
 1 82 30 -50 -40 0 0 -1 0 1 0 1 0 0 DragonEye.ldr
 1 82 0 -50 -20 -0 0 1 -0 1 0 -1 -0 -0 3020.dat
 0 STEP
-1 82 -10 262 -10 1 0 0 0 1 0 -0 0 1 DragonEyebrow.ldr
-1 82 -70 262 -10 1 0 0 0 1 0 -0 0 1 DragonEyebrow.ldr
+1 82 30 -74 -30 1 0 0 0 1 0 -0 0 1 DragonEyebrow.ldr
+1 82 -30 -74 -30 1 0 0 0 1 0 -0 0 1 DragonEyebrow.ldr
 1 0 -30 246 70 1 0 0 0 1 0 -0 0 1 RamothSnout.ldr
 1 82 -52 -20 10 -0 1 0 1 0 0 0 0 -1 2420.dat
 1 82 52 -20 10 -0 -1 0 0 -0 1 -1 0 0 2420.dat
@@ -465,8 +465,8 @@
 0 Eye crest
 0 Name: DragonEyebrow.ldr
 0 Author: Thomas Dickerson
-1 16 40 -336 -20 -1 0 0 0 1 0 0 0 -1 50950.dat
-1 16 40 -328 -40 1 0 0 -0 1 -0 0 0 1 6005.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 50950.dat
+1 16 0 8 -20 1 0 0 -0 1 -0 0 0 1 6005.dat
 0 NOFILE
 0 FILE RamothSnout.ldr
 0 Ramoth's snout-ridge and nostrils
