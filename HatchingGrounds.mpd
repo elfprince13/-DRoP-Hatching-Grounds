@@ -287,8 +287,11 @@
 1 82 190 -250 0 1 0 0 0 -0 -1 0 1 -0 51342.dat
 1 82 -130 -250 0 -1 -0 -0 -0 0 1 0 1 -0 51342.dat
 0 STEP
-1 8 30 -256 -10 -0 -0 1 -0 1 -0 -1 0 -0 48169.dat
 1 82 0 0 0 1 0 0 0 1 0 -0 0 1 RamothHead.ldr
+0 STEP
+1 8 0 0 0 1 0 0 0 1 0 -0 0 1 RamothNeckSectionV.ldr
+1 4 0 0 120 1 0 0 0 1 0 -0 0 1 RamothNeckSectionH.ldr
+1 4 0 0 240 1 0 0 0 1 0 -0 0 1 RamothNeckSectionV.ldr
 0 STEP
 0 NOFILE
 0 FILE RamothHead.ldr
@@ -311,7 +314,7 @@
 1 82 80 -232 -60 1 0 0 0 1 0 -0 0 1 3070a.dat
 0 STEP
 1 8 30 -256 -110 -0 0 -1 -0 1 -0 1 -0 -0 48170.dat
-1 4 30 -248 -70 -0 0 -1 -0 1 -0 1 -0 -0 47455.dat
+1 4 30 -246 -70 -0 0 -1 -0 1 -0 1 -0 -0 47455.dat
 1 4 60 -240 -140 -0 0 -1 -0 1 0 1 0 -0 2420.dat
 1 4 0 -240 -140 1 0 0 0 1 0 -0 -0 1 2420.dat
 1 4 30 -248 -150 1 0 0 0 1 0 -0 -0 1 3020.dat
@@ -489,5 +492,13 @@
 0 A vertically articulated neck section
 0 Name: RamothNeckSectionV.ldr
 0 Author: Thomas Dickerson
-
+1 8 30 -256 0 0 0 -1 0 1 0 1 0 0 47432.dat
+1 4 30 -246 50 0 -1 0 0 0 -1 1 0 0 47455.dat
+0 NOFILE
+0 FILE RamothNeckSectionH.ldr
+0 A horizontally articulated neck section
+0 Name: RamothNeckSectionH.ldr
+0 Author: Thomas Dickerson
+1 4 30 -246 50 0 0 -1 0 1 0 1 0 0 47455.dat
+1 8 30 -256 0 -0 0 -1 -0 1 0 1 0 -0 47454.dat
 0 NOFILE
