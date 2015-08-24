@@ -1,5 +1,5 @@
 0 FILE hatching-grounds.ldr
-0 untitled model
+0 Hatching Grounds scene from Anne McCaffrey's "Dragonriders of Pern" series.
 0 Name: hatching-grounds.ldr
 0 Author: Thomas Dickerson
 0 STEP
@@ -41,8 +41,8 @@
 0 STEP
 0 NOFILE
 0 FILE eggdunes.ldr
-0 untitled model
-0 Name: EggDunes.ldr
+0 Sand carefully arranged to incubate eggs.
+0 Name: eggdunes.ldr
 0 Author: Thomas Dickerson
 1 19 0 0 0 1 0 0 0 1 0 -0 0 1 41539.dat
 1 19 120 0 40 -1 -0 0 -0 1 -0 -0 -0 -1 3031.dat
@@ -77,8 +77,8 @@
 0 STEP
 0 NOFILE
 0 FILE egg.ldr
-0 untitled model
-0 Name: Egg.ldr
+0 A dragon egg
+0 Name: egg.ldr
 0 Author: Thomas Dickerson
 1 16 0 0 0 1 0 0 0 1 0 -0 0 1 2654.dat
 0 STEP
@@ -87,8 +87,8 @@
 0 STEP
 0 NOFILE
 0 FILE mirrim.ldr
-0 untitled model
-0 Name: 
+0 Mirrim
+0 Name: mirrim.ldr
 0 Author: Thomas Dickerson
 1 0 0 -24 0 1 0 0 0 1 0 -0 0 1 59363.DAT
 1 14 0 -24 0 -1 0 -0 0 1 0 0 0 -1 3626BPQ3.DAT
@@ -103,8 +103,8 @@
 1 6 0 44 0 1 0 0 0 0 -1 0 1 0 3816.DAT
 0 NOFILE
 0 FILE felessan.ldr
-0 untitled model
-0 Name: 
+0 Felessan
+0 Name: felessan.ldr
 0 Author: Thomas Dickerson
 1 0 0 -25 0 1 0 0 0 1 0 0 0 1 98726.DAT
 1 14 0 -25 0 1 0 0 0 1 0 0 0 1 3626BPC44.DAT
@@ -119,16 +119,16 @@
 1 6 0 44 0 1 0 0 0 1 0 0 0 1 3816.DAT
 0 NOFILE
 0 FILE gallery.ldr
-0 untitled model
+0 Seating for spectators to watch a hatching.
 0 Name: gallery.ldr
 0 Author: Thomas Dickerson
-1 16 0 0 0 1 0 0 0 1 0 -0 0 1 gallery-seating.ldr
-1 16 640 0 0 0.999999 0 0 0 1 0 -0 0 0.999999 gallery-seating.ldr
-1 16 1280 0 0 0.999999 0 0 0 1 0 -0 0 0.999999 gallery-seating.ldr
+1 16 0 0 0 1 0 0 0 1 0 -0 0 1 gallery-section.ldr
+1 16 640 0 0 0.999999 0 0 0 1 0 -0 0 0.999999 gallery-section.ldr
+1 16 1280 0 0 0.999999 0 0 0 1 0 -0 0 0.999999 gallery-section.ldr
 0 NOFILE
-0 FILE gallery-seating.ldr
-0 untitled model
-0 Name: gallery-seating.ldr
+0 FILE gallery-section.ldr
+0 A single seating-section of gallery
+0 Name: gallery-section.ldr
 0 Author: Thomas Dickerson
 1 16 50 128 -10 -0 0 -1 -0 1 -0 1 -0 -0 3622.dat
 0 STEP
@@ -281,7 +281,7 @@
 1 57 0 -8 23 1 0 0 0 1 0 -0 0 1 3062b.dat
 0 NOFILE
 0 FILE Ramoth.ldr
-0 untitled model
+0 The mother dragon.
 0 Name: Ramoth.ldr
 0 Author: Thomas Dickerson
 1 82 190 -250 0 1 0 0 0 -0 -1 0 1 -0 51342.dat
