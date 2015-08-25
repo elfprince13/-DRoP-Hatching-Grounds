@@ -284,8 +284,8 @@
 0 The mother dragon.
 0 Name: Ramoth.ldr
 0 Author: Thomas Dickerson
-1 82 160 -4 70 1 0 0 0 -0 -1 0 1 -0 51342.dat
-1 82 -160 -4 70 -1 -0 -0 -0 0 1 0 1 -0 51342.dat
+1 82 160 -4 742 1 0 0 0 -0 -1 0 1 -0 51342.dat
+1 82 -160 -4 742 -1 -0 -0 -0 0 1 0 1 -0 51342.dat
 0 STEP
 1 82 0 0 0 1 0 0 0 1 0 -0 0 1 RamothHead.ldr
 0 STEP
@@ -494,7 +494,10 @@
 0 Author: Thomas Dickerson
 1 8 0 -10 -50 0 0 -1 0 1 0 1 0 0 47432.dat
 1 4 0 0 0 0 -1 0 0 0 -1 1 0 0 47455.dat
-1 82 0 6 -50 1 0 0 0 1 0 -0 0 1 4854.dat
+0 STEP
+1 82 0 6 -40 -0 0 1 -0 1 0 -1 -0 -0 4854.dat
+0 STEP
+0 STEP
 0 NOFILE
 0 FILE RamothNeckSectionH.ldr
 0 A horizontally articulated neck section
@@ -502,4 +505,13 @@
 0 Author: Thomas Dickerson
 1 4 0 0 0 0 0 -1 0 1 0 1 0 0 47455.dat
 1 8 0 -10 -50 -0 0 -1 -0 1 0 1 0 -0 47454.dat
+0 STEP
+1 82 0 6 -40 -0 0 1 -0 1 0 -1 -0 -0 4854.dat
+1 82 0 14 -50 -0 0 1 -0 1 0 -1 -0 -0 3021.dat
+1 82 0 14 -10 -1 0 -0 0 1 0 0 0 -1 3069a.dat
+1 82 30 -2 -20 0 -0 -1 -0 1 -0 1 0 0 99207.dat
+1 82 30 -2 -60 0 -0 -1 -0 1 -0 1 0 0 99207.dat
+1 82 -30 -2 -60 -0 0 1 -0 1 -0 -1 -0 -0 99207.dat
+1 82 -30 -2 -20 -0 0 1 -0 1 -0 -1 -0 -0 99207.dat
+0 STEP
 0 NOFILE
